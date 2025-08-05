@@ -1,0 +1,2 @@
+# WealthWaveScript
+Wealth Wave Script
